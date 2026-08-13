@@ -1,168 +1,205 @@
-# Translator & Localization Portfolio
+# 🌍 Translator & Localization Portfolio
 
 > **Translator & Localization Specialist | Linguistic QA | Multilingual AI Evaluation**
 
-Welcome to my translation and localization portfolio.
+Welcome to my professional portfolio focused on **translation, localization, linguistic quality assurance, transcreation, terminology management, and AI-assisted language evaluation**.
 
-This repository showcases practical projects focused on **translation, localization, linguistic quality assurance, transcreation, terminology management, and AI-assisted language evaluation**.
-
-My work combines a strong background in languages with an analytical approach to language quality, cultural adaptation, and AI-generated content evaluation.
+This repository showcases practical case studies demonstrating how linguistic expertise can be combined with structured quality evaluation and emerging AI technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a language professional with experience in **English, Portuguese, Spanish, Italian, French, German, and Korean**, with a particular interest in the intersection between **language, technology, and artificial intelligence**.
+I am a language professional with a background in **translation, multilingual communication, linguistic evaluation, and AI-related language projects**.
 
-My work focuses on producing and evaluating high-quality multilingual content while considering not only linguistic accuracy, but also:
+My work sits at the intersection of:
 
-- Context
-- Cultural adaptation
-- Terminology
-- Tone and register
-- User experience
-- Localization standards
-- Linguistic consistency
-- AI-generated content quality
+**Language × Localization × Quality × Artificial Intelligence**
+
+I am particularly interested in evaluating and improving multilingual content so that it is not only accurate, but also natural, culturally appropriate, and fit for purpose.
 
 ---
 
-## 🧩 Areas of Expertise
+## 🧠 Core Skills
 
-### Translation
-- English → Brazilian Portuguese
-- Brazilian Portuguese → English
+### 🌐 Translation & Localization
+- English ↔ Brazilian Portuguese
 - Multilingual content adaptation
-- General and business translation
-
-### Localization
-- Software and digital products
-- Websites and applications
-- User interfaces
-- Marketing content
+- Localization
+- Transcreation
 - Cultural adaptation
+- UX writing
+- Marketing localization
 
-### Linguistic QA
-- Translation accuracy
-- Fluency
-- Grammar
-- Terminology
-- Consistency
-- Style
-- Cultural appropriateness
-- Error classification and severity
+### 🔎 Linguistic Quality Assurance
+- Translation QA
+- Multilingual LQA
+- Error identification
+- Error classification
+- Severity assessment
+- Terminology QA
+- Style and tone evaluation
 
-### Transcreation
-- Marketing campaigns
-- Creative content
-- Brand messaging
-- Cultural adaptation
-
-### AI & Language
+### 🤖 AI & Language Technology
 - LLM translation evaluation
 - AI-generated content evaluation
+- Human vs. AI comparison
 - Prompt-based translation testing
-- Multilingual LLM quality assessment
-- Human vs. AI translation comparison
+- Multilingual AI evaluation
+- AI-assisted localization
+
+### 📚 Terminology
+- Terminology management
+- Bilingual glossaries
+- Approved terminology
+- Terms-to-avoid
+- Terminology consistency
+- Context-based terminology decisions
 
 ---
 
-## 📂 Portfolio Projects
+# 📂 Case Studies
 
-| Project | Focus | Skills Demonstrated |
-|---|---|---|
-| [01 — Translation QA](./01-Translation-QA/) | Translation quality assessment | Linguistic QA, error classification |
-| [02 — Localization](./02-Localization/) | Cultural and product adaptation | Localization, UX writing |
-| [03 — Transcreation](./03-Transcreation/) | Creative adaptation | Copywriting, cultural adaptation |
-| [04 — Terminology Management](./04-Terminology/) | Terminology consistency | Glossaries, terminology QA |
-| [05 — Multilingual LQA](./05-Multilingual-LQA/) | Multilingual quality evaluation | LQA, error severity |
-| [06 — AI Translation Evaluation](./06-AI-Translation-Evaluation/) | Evaluation of AI translations | LLM evaluation, comparative analysis |
+## 01 — Translation Quality Assurance
 
----
+A structured English → Brazilian Portuguese Translation QA review.
 
-## 🔎 Evaluation Framework
-
-For linguistic quality evaluation, I consider multiple dimensions:
-
-### 1. Accuracy
-
-Does the translation preserve the meaning and intent of the source?
-
-### 2. Fluency
-
-Does the target text sound natural to a native speaker?
-
-### 3. Terminology
-
-Are technical and domain-specific terms translated consistently?
-
-### 4. Cultural Appropriateness
-
-Does the content work naturally for the target audience and market?
-
-### 5. Style & Tone
-
-Does the translation preserve the intended voice, register, and brand personality?
-
-### 6. Consistency
-
-Are terminology, formatting, capitalization, and linguistic choices consistent throughout the content?
-
-### 7. Severity
-
-When an issue is identified, how significantly does it affect the user experience or meaning?
-
----
-
-## 🤖 AI Translation Evaluation
-
-A major focus of this portfolio is evaluating **AI-generated translations**.
-
-The evaluation process considers both traditional linguistic quality and AI-specific issues such as:
-
-- Hallucinated information
-- Meaning distortion
-- Context loss
-- Inconsistent terminology
-- Literal translation
-- Cultural mismatch
-- Unnatural phrasing
-- Prompt sensitivity
-
-The goal is not simply to determine whether an AI translation is grammatically correct, but whether it is **accurate, natural, contextually appropriate, and useful for the intended audience**.
-
----
-
-## 📊 Methodology
-
-My evaluation methodology follows a structured process:
-
-**Source Analysis → Translation → Review → Error Identification → Classification → Severity Assessment → Correction → Final Evaluation**
-
-This approach allows linguistic decisions to be documented and reproduced systematically.
-
----
-
-## 🎯 Career Focus
-
-I am particularly interested in opportunities involving:
-
-- Translation
+**Focus:**
+- Accuracy
+- Fluency
+- Terminology
 - Localization
-- Linguistic QA
-- AI Language Evaluation
-- LLM Evaluation
-- Multilingual Data
-- Prompt Engineering
-- AI Training
-- Language Technology
+- Error severity
+- Quality scoring
+
+➡️ [View Case Study](./01-Translation-QA/)
 
 ---
 
-## 📫 Contact
+## 02 — Localization
 
-**Karol Baldrez**
+Localization of a fictional US digital product for the Brazilian market.
 
-Language Specialist | Translator | Localization | AI Language Evaluation
+**Focus:**
+- Cultural adaptation
+- Currency
+- Date formats
+- UX writing
+- Market adaptation
+- Brazilian Portuguese conventions
 
-Brazil 🇧🇷
+➡️ [View Case Study](./02-Localization/)
+
+---
+
+## 03 — Transcreation
+
+Creative adaptation of a fictional fashion campaign for Brazilian consumers.
+
+**Focus:**
+- Brand voice
+- Emotional impact
+- Creative adaptation
+- Marketing language
+- Cultural relevance
+
+➡️ [View Case Study](./03-Transcreation/)
+
+---
+
+## 04 — Terminology Management
+
+Creation of a bilingual terminology glossary for a fictional software product.
+
+**Focus:**
+- Terminology consistency
+- Approved translations
+- Terms to avoid
+- Context
+- Localization standards
+
+➡️ [View Case Study](./04-Terminology/)
+
+📊 [View Terminology Glossary](./04-Terminology/terminology_glossary.csv)
+
+---
+
+## 05 — Multilingual Linguistic QA
+
+Evaluation of localized content across five languages.
+
+**Languages:**
+- 🇧🇷 Brazilian Portuguese
+- 🇪🇸 Spanish
+- 🇮🇹 Italian
+- 🇫🇷 French
+- 🇩🇪 German
+
+**Focus:**
+- Multilingual QA
+- Fluency
+- Terminology
+- Localization
+- Error severity
+- Cross-language evaluation
+
+➡️ [View Case Study](./05-Multilingual-LQA/)
+
+---
+
+## 06 — AI Translation Evaluation
+
+Structured evaluation of an AI-generated English → Brazilian Portuguese translation.
+
+**Focus:**
+- AI translation quality
+- Semantic accuracy
+- Fluency
+- Terminology
+- Localization
+- Human linguistic review
+- AI evaluation methodology
+
+➡️ [View Case Study](./06-AI-Translation-Evaluation/)
+
+---
+
+# 📊 Evaluation Framework
+
+My linguistic evaluation framework considers:
+
+| Dimension | Question |
+|---|---|
+| Accuracy | Is the original meaning preserved? |
+| Fluency | Does the text sound natural? |
+| Terminology | Are approved terms used consistently? |
+| Localization | Is the content appropriate for the target market? |
+| Style | Does the tone match the intended context? |
+| Completeness | Was information omitted or added? |
+| UX | Is the content clear and usable? |
+| Severity | How significantly does an issue affect quality? |
+
+---
+
+# 🔄 My Localization Workflow
+
+```text
+Source Analysis
+       ↓
+Context & Audience Analysis
+       ↓
+Translation / Localization
+       ↓
+Linguistic Review
+       ↓
+Terminology Check
+       ↓
+Cultural & UX Review
+       ↓
+Error Classification
+       ↓
+Severity Assessment
+       ↓
+Correction
+       ↓
+Final QA
