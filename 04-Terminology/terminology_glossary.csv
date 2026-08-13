@@ -1,0 +1,17 @@
+English Term,Approved PT-BR,Alternative,Avoid,Context,Notes
+Sign in,Entrar,Fazer login,Logar,Account access,Use "Entrar" in UI buttons
+Sign up,Criar conta,Cadastrar-se,Registrar-se,Account creation,Prefer concise UI language
+Password,Senha,,,Authentication,Brazilian Portuguese
+Username,Nome de usuário,Usuário,Nome do utilizador,Account,Keep consistent across product
+User account,Conta de usuário,Conta,Conta do utilizador,Account management,Preferred terminology
+Settings,Configurações,Ajustes,Definições,Application menu,Use "Configurações"
+Notification,Notificação,,,System / App,Context dependent
+Subscription,Assinatura,Plano,Subscrição,Payments,Use "Assinatura" for recurring plans
+Free trial,Período de teste grátis,Teste gratuito,Trial grátis,Subscription,Preferred for Brazilian users
+Checkout,Finalização da compra,Pagamento,Checkout,E-commerce,Use according to product context
+Shopping cart,Carrinho,Carrinho de compras,Cesta,E-commerce,"Carrinho" preferred
+Order,Pedido,Compra,Encomenda,E-commerce,Use "pedido" for transactions
+Track order,Acompanhar pedido,Rastrear pedido,,Order tracking,"Acompanhar" preferred for UX
+Refund,Reembolso,Estorno,Devolução,Payments,Context determines exact usage
+Customer support,Suporte ao cliente,Atendimento ao cliente,Apoio ao cliente,Support,"Suporte" preferred for software
+Privacy policy,Política de privacidade,,,Legal / Account,Standard Brazilian terminology
